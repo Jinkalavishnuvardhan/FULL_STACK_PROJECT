@@ -1,4 +1,4 @@
-# 🚀 Full Stack Development Team Project
+# 🚀 Full Stack Development  Project
 
 ## 📌 Project Overview
 
